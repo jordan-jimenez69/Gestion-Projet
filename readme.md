@@ -28,7 +28,7 @@ La classification entre enjeux stratégiques et opérationnels repose sur leur i
 
 
 Travel-easy : 
-
+Enjeux Stratégiques :
 - Devenir une référence dans la vente d’équipements de randonnée :
 L’enjeu principal est de se positionner comme un acteur incontournable dans la vente d’équipements de randonnée. En offrant une gamme de produits de qualité et adaptée aux besoins variés des randonneurs, Travel-easy peut se démarquer de la concurrence. Ce positionnement est crucial pour attirer et fidéliser les clients, surtout dans un marché où les clients recherchent de l'expertise et de la fiabilité.
 
@@ -38,11 +38,28 @@ Au-delà de la vente d’équipements, Travel-easy peut développer une communau
 - Optimiser l’expérience client par des recommandations personnalisées :
 En analysant les achats passés, Travel-easy pourrait recommander de nouveaux équipements ou des parcours de randonnée en lien avec le matériel possédé. Cet enjeu stratégique vise à améliorer la satisfaction des clients en leur offrant une expérience personnalisée, ce qui renforce leur fidélité. Une bonne expérience client est essentielle pour transformer les clients en acheteurs réguliers et en promoteurs de la marque.
 
+Indicateurs pour les Enjeux Stratégiques :
+- Taux de fidélité des clients :
+Cet indicateur mesure le pourcentage de clients qui reviennent pour un nouvel achat. Un taux de fidélité élevé montre que les clients sont satisfaits et engagés. L’objectif pourrait être d’atteindre un taux de fidélité de 30 % à 50 % dans la première année.
+
+- Taux d’interaction avec les listings de randonnées :
+Pour évaluer l’engagement de la communauté, le taux d’interaction permet de mesurer combien d’utilisateurs consultent ou sauvegardent les randonnées proposées. Un objectif pourrait être de viser une interaction avec les listings pour au moins 20 % des clients inscrits. Cela montrerait que les fonctionnalités additionnelles intéressent et retiennent les clients.
+
+- Taux de satisfaction client :
+La satisfaction client est un indicateur important pour évaluer la qualité des services et des produits proposés. Des enquêtes peuvent être envoyées après achat ou après consultation des listings pour recueillir les avis des clients. Un taux de satisfaction de 85 % peut être un objectif initial.
+
 
 Enjeux Opérationnels :
-
 - Automatiser les suggestions de randonnées et les recommandations d’équipements :
 Pour faciliter l’expérience client, une fonctionnalité d’automatisation pourrait être mise en place pour suggérer des randonnées basées sur le matériel acheté, ou recommander des équipements complémentaires. Cet enjeu permet de gagner en efficacité en automatisant les recommandations, tout en fournissant une valeur ajoutée immédiate aux clients.
 
 - Intégrer les outils avec les plateformes existantes :
 Travel-easy pourrait utiliser des outils bureautiques, des logiciels de CRM, et des applications mobiles pour gérer les relations clients et les listings de randonnées. Assurer que les nouveaux outils sont compatibles avec l’infrastructure existante simplifiera leur adoption et évitera des doublons d’information. Cet enjeu opérationnel garantit une meilleure productivité et facilite l'usage des données sur les différents supports.
+
+
+Indicateurs pour les Enjeux Opérationnels :
+- Taux de suggestions automatisées utilisées :
+Cet indicateur mesure combien de fois les recommandations (par exemple, de nouveaux équipements ou des randonnées) sont suivies par les clients. Un taux d'utilisation de 25 % pourrait être un objectif raisonnable pour débuter.
+
+- Compatibilité avec les plateformes mobiles et CRM :
+Un taux de compatibilité de 100 % montre que les outils et applications sont parfaitement intégrés avec l’existant. Des tests réguliers permettent de garantir que les informations sont accessibles et synchronisées entre les différents supports.
