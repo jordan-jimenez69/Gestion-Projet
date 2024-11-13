@@ -1,4 +1,5 @@
 Comprendre les Enjeux
+
 Identification et Classification des Enjeux Stratégiques et Opérationnels
 Enjeux Stratégiques
 
@@ -73,3 +74,39 @@ Cadre Contractuel des Projets Informatiques
 - Types de Contrats : Obligation de Moyens, Régie, Obligation de Résultat, Forfait
 - Statement Of Work (SOW) : Livrables, Planning, SLA, Pénalités
 - Structure Contractuelle : Accord Maître, Documents Projet, SOW, Annexes techniques
+
+
+
+TP3 : 
+Annie :
+Rôle : Responsable marketing et chef de projet.
+Responsabilités : Conduite du projet CRM, gestion des risques, validation des fonctionnalités, coordination des tests,
+et suivi des aspects financiers et organisationnels. ​
+
+
+Guillaume :
+Rôle : Informaticien.
+Responsabilités : Assistance technique, analyse des solutions disponibles, évaluation des risques techniques,
+estimation budgétaire, et gestion de l'infrastructure informatique.
+
+
+
+DAF (Direction Administrative et Financière) :
+Rôle : Gestion financière.
+Responsabilités : Supervision des aspects budgétaires, négociation des modalités financières,
+et suivi des coûts de réduction des risques.
+
+
+
+DG (Direction Générale) :
+Rôle : Supervision générale.
+Responsabilités : Gestion des ressources humaines, réallocation des dossiers, embauche en CDD,
+et supervision de la charge de travail des utilisateurs référents et du chef de projet. ​
+
+
+
+Comité de pilotage :
+
+Rôle : Supervision et conseil.
+Responsabilités : Évaluation des risques, apport d'un éclairage extérieur, aide à la prise de recul, 
+et définition des facteurs de réussite du projet.
