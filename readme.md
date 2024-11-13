@@ -86,3 +86,25 @@ Analyse Performance : Cash-flow cumulatif, Amortissement, WACC
 Business Case
 Proposition de Valeur : Valeur, Positionnement marché, Études de marché
 Top Line Financier : Investissement global, Valeur actuelle nette, Cash-flow
+
+
+Gestion Financière des Projets
+Comptes Rendus d'Activité (CRA) : Contrôle planning, Suivi budget, Coûts, Qualité, Délais
+Reconnaissance du Chiffre : Modèle comptable, Lissage chiffre d'affaires, Documentation, Reconnaissance revenu
+
+Protection des Données Personnelles
+Principes Fondamentaux : RGPD, Propriété des données, Responsabilisation
+Acteurs Clés : Data Subject, Data Controller, Data Processor
+Droits et Obligations : Consentement, Sécurisation, Privacy by design, Incidents
+Données Personnelles : Identifiants directs, Indirects
+Gestion des Données : Conservation, Sécurisation, Anonymisation, Pseudonymisation
+Registre des Traitements : Objectif, Sous-traitance, Territorialisation, Sécurité
+Territorialisation : Hébergement, Transferts, Cloud
+Chief Digital Officer (CDO) : Pilotage, Gestion incidents, Conformité
+
+Cadre Contractuel des Projets Informatiques
+Contexte Général : Relations inter-entreprises, ESN, Éditeurs logiciels
+Appel d'Offres : RFI, RFP/RFQ, NDA, Critères de sélection, Short-list
+Types de Contrats : Obligation de Moyens, Régie, Obligation de Résultat, Forfait
+Statement Of Work (SOW) : Livrables, Planning, SLA, Pénalités
+Structure Contractuelle : Accord Maître, Documents Projet, SOW, Annexes techniques
