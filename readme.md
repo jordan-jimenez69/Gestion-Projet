@@ -77,7 +77,7 @@ Cadre Contractuel des Projets Informatiques
 
 
 
-TP3 : 
+TP3 - 1: 
 
 Annie :
 
@@ -115,3 +115,30 @@ Comité de pilotage :
 Rôle : Supervision et conseil.
 Responsabilités : Évaluation des risques, apport d'un éclairage extérieur, aide à la prise de recul, 
 et définition des facteurs de réussite du projet.
+
+
+
+TP3 - 2: 
+Période de lancement (go live) :
+
+Justification : Le lancement est prévu en début de période estivale, une période où de nombreux utilisateurs 
+seront en congé. ​ Cela pourrait entraîner une disponibilité réduite des utilisateurs pour tester et adopter la nouvelle 
+application, compromettant ainsi le succès initial du projet. ​
+
+
+
+Disponibilité des ressources :
+
+Justification : L'infrastructure informatique et les utilisateurs référents pourraient ne pas être disponibles 
+au moment voulu. ​ La société doit configurer et livrer de nouveaux environnements, et les utilisateurs référents 
+doivent valider les fonctionnalités et effectuer des tests, ce qui peut être difficile à coordonner avec leurs 
+engagements professionnels existants. ​
+
+
+
+Charge de travail d'Annie :
+
+Justification : Annie doit gérer à la fois ses responsabilités marketing et la conduite du projet CRM. ​ 
+Cette double tâche augmente le risque de surcharge de travail, pouvant compromettre la réalisation du projet si 
+elle échoue à équilibrer ses missions. ​ De plus, son engagement professionnel pourrait être affecté en cas d'échec 
+ou de succès non récompensé comme espéré.
