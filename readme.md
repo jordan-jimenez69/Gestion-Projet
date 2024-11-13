@@ -63,3 +63,26 @@ Cet indicateur mesure combien de fois les recommandations (par exemple, de nouve
 
 - Compatibilité avec les plateformes mobiles et CRM :
 Un taux de compatibilité de 100 % montre que les outils et applications sont parfaitement intégrés avec l’existant. Des tests réguliers permettent de garantir que les informations sont accessibles et synchronisées entre les différents supports.
+
+
+Structure de Coûts Projet
+Réalisation : Salaires, Prestations, SSII, Compétences, Expérience
+Facturation : Régie, Forfait, Durée engagement, Paiement échelonné
+Infrastructure & Exploitation : Hébergement, Cloud, Maintenance, Supervision, Sauvegardes
+Support & Services : SLA, Formation, Marketing, Frais commerciaux
+
+Budgets de Projet
+Structure Temporelle : Vision semestrielle, Consolidation, Catégories
+Exemple Budget Semestriel : Salaires, Prestations, Hébergement, Exploitation, Support
+Consolidation Annuelle : Investissements, Fonctionnement, Refacturés
+Indicateurs Clés : Engagement, % Utilisation, Dépassement, Économies
+
+Analyse Financière de Projet
+Modèles Économiques : Licence, Maintenance, SaaS, Pay as you go, Transactionnel
+Structure Financière : Coûts R&D, Opérations, Revenus Licence, Maintenance
+Indicateurs Clés : VAN (NPV), TRI (IRR), Break Even, Cash-flow
+Analyse Performance : Cash-flow cumulatif, Amortissement, WACC
+
+Business Case
+Proposition de Valeur : Valeur, Positionnement marché, Études de marché
+Top Line Financier : Investissement global, Valeur actuelle nette, Cash-flow
