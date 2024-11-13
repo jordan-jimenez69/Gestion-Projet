@@ -78,13 +78,16 @@ Cadre Contractuel des Projets Informatiques
 
 
 TP3 : 
+
 Annie :
+
 Rôle : Responsable marketing et chef de projet.
 Responsabilités : Conduite du projet CRM, gestion des risques, validation des fonctionnalités, coordination des tests,
 et suivi des aspects financiers et organisationnels. ​
 
 
 Guillaume :
+
 Rôle : Informaticien.
 Responsabilités : Assistance technique, analyse des solutions disponibles, évaluation des risques techniques,
 estimation budgétaire, et gestion de l'infrastructure informatique.
@@ -92,6 +95,7 @@ estimation budgétaire, et gestion de l'infrastructure informatique.
 
 
 DAF (Direction Administrative et Financière) :
+
 Rôle : Gestion financière.
 Responsabilités : Supervision des aspects budgétaires, négociation des modalités financières,
 et suivi des coûts de réduction des risques.
@@ -99,6 +103,7 @@ et suivi des coûts de réduction des risques.
 
 
 DG (Direction Générale) :
+
 Rôle : Supervision générale.
 Responsabilités : Gestion des ressources humaines, réallocation des dossiers, embauche en CDD,
 et supervision de la charge de travail des utilisateurs référents et du chef de projet. ​
