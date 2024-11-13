@@ -2,33 +2,33 @@ Comprendre les Enjeux
 Identification et Classification des Enjeux Stratégiques et Opérationnels
 Enjeux Stratégiques
 
-Nouveau marché : Diversification, réduction de dépendance, clientèle fidèle, croissance durable.
-Transformer les opportunités en ventes : Réduire cycle de vente, efficacité, réactivité, croissance.
-Optimiser la gestion client : CRM centralisé, suivi interactions, satisfaction, fidélisation.
-Enjeux Opérationnels
+- Nouveau marché : Diversification, réduction de dépendance, clientèle fidèle, croissance durable.
+- Transformer les opportunités en ventes : Réduire cycle de vente, efficacité, réactivité, croissance.
+- Optimiser la gestion client : CRM centralisé, suivi interactions, satisfaction, fidélisation.
 
-Améliorer la qualité des données clients : Précision, données consolidées, éviter erreurs.
-Faciliter les processus de vente : Automatiser tâches, réduire erreurs, réponses rapides.
-Intégration des outils : Accessibilité mobile, compatibilité, adoption facile.
+Enjeux Opérationnels
+- Améliorer la qualité des données clients : Précision, données consolidées, éviter erreurs.
+- Faciliter les processus de vente : Automatiser tâches, réduire erreurs, réponses rapides.
+- Intégration des outils : Accessibilité mobile, compatibilité, adoption facile.
+
 Travel-easy : Enjeux Stratégiques et Opérationnels
 Enjeux Stratégiques
+- Référence vente équipement : Expertise, attractivité, fidélisation clients.
+- Créer une communauté de randonneurs : Listings randonnées, engagement, fidélité.
+- Optimiser l’expérience client : Recommandations personnalisées, satisfaction, fidélisation.
 
-Référence vente équipement : Expertise, attractivité, fidélisation clients.
-Créer une communauté de randonneurs : Listings randonnées, engagement, fidélité.
-Optimiser l’expérience client : Recommandations personnalisées, satisfaction, fidélisation.
 Indicateurs pour les Enjeux Stratégiques
+- Taux de fidélité client : 30-50 %.
+- Interaction avec listings randonnées : 20 %.
+- Satisfaction client : 85 %.
 
-Taux de fidélité client : 30-50 %.
-Interaction avec listings randonnées : 20 %.
-Satisfaction client : 85 %.
 Enjeux Opérationnels
+- Automatisation suggestions : Randonnées basées sur équipement, recommandations efficaces.
+- Intégration outils existants : Compatibilité CRM, applications, productivité.
 
-Automatisation suggestions : Randonnées basées sur équipement, recommandations efficaces.
-Intégration outils existants : Compatibilité CRM, applications, productivité.
 Indicateurs pour les Enjeux Opérationnels
-
-Taux d’utilisation des suggestions : 25 %.
-Compatibilité plateformes mobiles et CRM : 100 %, tests réguliers.
+- Taux d’utilisation des suggestions : 25 %.
+- Compatibilité plateformes mobiles et CRM : 100 %, tests réguliers.
 
 Structure de Coûts Projet
 - Réalisation : Salaires, Prestations, SSII, Compétences, Expérience
